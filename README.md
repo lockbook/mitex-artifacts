@@ -1,3 +1,5 @@
+> **Lockbook's fork.** `spec/default.rkyv` regenerated from mitex main with typst 0.15.1, pending mitex-rs/artifacts#1. [lockbook/mitex](https://github.com/lockbook/mitex) fetches it from here until that merges.
+
 # artifacts
 
 Artifacts of MiTeX, to build MiTeX in standalone mode
