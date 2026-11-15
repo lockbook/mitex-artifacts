@@ -24,6 +24,9 @@ typst query --root . packages/mitex/specs/mod.typ <mitex-packages>
 
 To get compacted metadata, run `mitex spec generate`
 
+[`spec/default.json`](spec/default.json) is the same specification as JSON, which
+`mitex spec generate` writes alongside it.
+
 The mitex-cli is built with following command:
 
 ```bash
